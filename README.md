@@ -25,3 +25,6 @@ Meeting creator can update/delete the date/hour/guests. As soon as it is edited 
 When suggesting a time, the person should match all the guests and find the next available time for everyone.
 
 # Architeture
+
+<img width="722" height="424" alt="image" src="https://github.com/user-attachments/assets/759c3dab-b32c-452d-993e-b0caae270e7f" />
+
