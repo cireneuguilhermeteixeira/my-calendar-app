@@ -26,5 +26,6 @@ When suggesting a time, the person should match all the guests and find the next
 
 # Architeture
 
-<img width="722" height="424" alt="image" src="https://github.com/user-attachments/assets/759c3dab-b32c-452d-993e-b0caae270e7f" />
+<img width="739" height="435" alt="image" src="https://github.com/user-attachments/assets/028f797b-d34f-4e81-ac04-183b27bd8b3d" />
+
 
